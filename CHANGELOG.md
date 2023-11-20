@@ -1,8 +1,12 @@
 # Changelog
 
-## 3.1.0 (20231120)
+## 3.1.1 (20231120)
 
 * Update dependency `meta` to `1.11.0`
+
+## 3.1.0 (20231120)
+
+* Update dependency `meta` to `1.10.0`
 * Update dependency Android `libphonenumber` to `8.13.25`
 * Update dependency Android `carrier` to `1.209`
 
