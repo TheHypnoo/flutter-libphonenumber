@@ -1,5 +1,9 @@
 # Changelog
 
+## 3.1.2 (20231211)
+
+* Remove dependency `meta` (no longer needed)
+
 ## 3.1.1 (20231120)
 
 * Update dependency `meta` to `1.11.0`
